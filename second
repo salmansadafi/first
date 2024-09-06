@@ -1,2 +1,6 @@
-second text
+second tex
+<<<<<<< HEAD
 this is test
+=======
+changing...
+>>>>>>> fba2d5c4a7933b8879641fe0064b5eba71e08084
